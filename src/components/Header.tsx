@@ -1,4 +1,4 @@
-import type { CartItem, Guitar } from "../types";
+import type { CartItem } from "../types";
 import type { CartActions } from "../reducers/cart-reducer";
 import { useMemo, Dispatch } from "react";
 
